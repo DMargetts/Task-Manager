@@ -1,0 +1,15 @@
+.text {
+  width: 100%;
+  padding: 5px;
+}
+.reminder {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+.reminder input {
+  margin-left: 5px;
+}
+.reminder input:hover {
+  cursor: pointer;
+}
